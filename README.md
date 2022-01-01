@@ -1,4 +1,3 @@
 # booking-app
-A Go cli application for ticket booking
-
+Learning Go by building a ticket booking cli application
 source of tutorial: https://www.youtube.com/watch?v=yyUHQIec83I
